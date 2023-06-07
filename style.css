@@ -6,3 +6,8 @@ h1 {
     font-size: 50px;
     color: blanchedalmond;
 }
+p {
+    font-style: italic;
+    text-transform: uppercase;
+    color: azure;
+}
